@@ -3,5 +3,5 @@
   </br>
   <img width="310" src="https://lastfm.dedomil.workers.dev/fluorosulfonic?dark"></br>
   </br>
-  <img src="https://komarev.com/ghpvc/?username=HENRlKSSON-username&color=111111&style=round&label=you+kill+me+every+time&abreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=HENRlKSSON-username&color=111111&style=round&label=feel+my+entanglement&abreviated=true">
 </div>
