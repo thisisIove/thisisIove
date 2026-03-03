@@ -1,5 +1,5 @@
 <div align="middle">
-  INTp-T sx4 sp6 so3 RDO ILI 431 RLUEN</br>
+  INTp-T sx4 sp6 so3 RD(o) ILI 431 RLUEN</br>
   </br>
   <img width="310" src="https://lastfm.dedomil.workers.dev/fluorosulfonic?dark"></br>
   </br>
